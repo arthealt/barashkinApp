@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308096728662",
+    "project_id": "barashkin-a8638",
+    "storage_bucket": "barashkin-a8638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308096728662:android:e38c2cc1ee222598da45f7",
+        "android_client_info": {
+          "package_name": "com.fixee.barashkin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308096728662-r2nv94libsp3ovjsifcc1lttt962rhuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgpXdOc7qXKIn7iK1WctPuEuF7kop7tGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308096728662-r2nv94libsp3ovjsifcc1lttt962rhuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
